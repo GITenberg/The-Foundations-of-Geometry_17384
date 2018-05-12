@@ -1,0 +1,36 @@
+_repo: The-Foundations-of-Geometry_17384
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Townsend, E. J. (Edgar Jerome)
+    alias: Townsend, Edgar Jerome
+    birthdate: 1864
+    deathdate: 1955
+    gutenberg_agent_id: '38485'
+    url: http://www.gutenberg.org/2009/agents/38485
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hilbert, David
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '7340'
+    url: http://www.gutenberg.org/2009/agents/7340
+    wikipedia: http://en.wikipedia.org/wiki/David_Hilbert
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2005-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geometry -- Foundations'
+- !lcc 'QA'
+title: The Foundations of Geometry
+url: http://www.gutenberg.org/ebooks/17384
